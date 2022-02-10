@@ -1,6 +1,6 @@
 ### 만사가 귀찮은 꿈나무 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ufshg)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ufshg&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ufshg)](https://solved.ac/ufshg)
