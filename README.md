@@ -5,6 +5,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ufshg)](https://solved.ac/ufshg)
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ufshg)
+
 <!--
 **ufshg/ufshg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
